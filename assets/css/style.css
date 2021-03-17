@@ -8,12 +8,9 @@ body {
     background-color: #d9dcd6;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
+/*Nav bar Logo*/
 header {
+    display: block;
     padding: 20px;
     font-family: 'Trebuchet MS', Arial, sans-serif;
     background-color: #2a607c;
@@ -29,6 +26,7 @@ header h1 {
     color: #d9dcd6;
 }
 
+/*Nav bar Links */
 header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -46,6 +44,12 @@ header li {
     margin-left: 25px;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/*Main Picture*/
 .hero {
     height: 800px;
     margin-bottom: 25px;
@@ -54,6 +58,7 @@ header li {
     background-position: center;
 }
 
+/*Features of Product*/
 .content {
     width: 75%;
     display: inline-block;
@@ -89,6 +94,7 @@ header li {
     margin-left: 25px;
 }
 
+/*Benefits of Product*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -116,12 +122,13 @@ header li {
     max-width: 150px;
 }
 
+/*Credit and copyright*/
 footer {
     padding: 30px;
     font-family: 'Trebuchet MS', Arial, sans-serif;
     text-align: center;
 }
 
-footer h2 {
+footer h4 {
     font-size: 20px;
 }
