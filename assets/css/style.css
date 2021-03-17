@@ -52,7 +52,6 @@ header li {
 
 .hero {
     height: 800px;
-    width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
@@ -97,10 +96,8 @@ header li {
 .benefits {
     margin-right: 20px;
     padding: 20px;
-    clear: both;
     float: right;
     width: 20%;
-    height: 100%;
     font-family: 'Gill Sans MT', 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
@@ -125,7 +122,6 @@ header li {
 
 footer {
     padding: 30px;
-    clear: both;
     font-family: 'Trebuchet MS', Arial, sans-serif;
     text-align: center;
 }
