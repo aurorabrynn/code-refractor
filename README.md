@@ -7,6 +7,8 @@ I learned a lot from this project, such as the importance of comments and a logi
 
 ### Screenshot
 <img src="./assets/images/screencapture.png">
+<img src="./assets/images/screencapture(2).png">
+<img src="./assets/images/screencapture(3).png">
 
 #### Link
-<a href="https://aurorabrynn.github.io/code-refractor/"></a>
+<a href="https://aurorabrynn.github.io/code-refractor/">Github Link</a>
