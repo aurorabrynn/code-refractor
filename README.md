@@ -6,9 +6,9 @@ I made this website more accessible and a bit cleaner. Accessiblity is important
 I learned a lot from this project, such as the importance of comments and a logical structure to CSS.
 
 ## Screenshot
-<img src="./assets/images/screencapture.png">
-<img src="./assets/images/screencapture(2).PNG">
-<img src="./assets/images/screencapture(3).PNG">
+![Beginning of screenshot](./assets/images/screencapture.png)
+![Middle of screenshot](./assets/images/screencapture(2).PNG)
+![Ending of screenshot](./assets/images/screencapture(3).PNG)
 
 ## Link
 <a href="https://aurorabrynn.github.io/code-refractor/">Github Link</a>
