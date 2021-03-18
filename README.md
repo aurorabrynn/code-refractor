@@ -1,10 +1,12 @@
 # Code-Refractor
 
 ## Description
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+I made this website more accessible and a bit cleaner. Accessiblity is important, and we need to make sure that all potential customers can access our webpage. All links now work, and the HTML and CSS follow semantic structure. Excess CSS has also been removed. All this not only allows other coders to work better in the future with this code, but also screen readers are better able to describe the website.
 
-<img src="./">
+I learned a lot from this project, such as the importance of comments and a logical structure to CSS.
+
+### Screenshot
+<img src="./assets/images/screencapture.png">
+
+#### Link
+<a href="https://aurorabrynn.github.io/code-refractor/"></a>
