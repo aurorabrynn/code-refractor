@@ -5,7 +5,7 @@ I made this website more accessible and a bit cleaner. Accessiblity is important
 
 I learned a lot from this project, such as the importance of comments and a logical structure to CSS.
 
-## Screenshot
+## Screenshots
 ![Beginning of screenshot](./assets/images/screencapture.png)
 ![Middle of screenshot](./assets/images/screencapture(2).PNG)
 ![Ending of screenshot](./assets/images/screencapture(3).PNG)
