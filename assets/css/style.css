@@ -60,8 +60,8 @@ a {
 
 /*Features of Product*/
 .content {
-    width: 75%;
     display: inline-block;
+    width: 75%;
     margin-left: 20px;
 }
 
@@ -96,8 +96,8 @@ a {
 
 /*Benefits of Product*/
 .benefits {
-    margin-right: 20px;
     padding: 20px;
+    margin-right: 20px;
     float: right;
     width: 20%;
     font-family: 'Gill Sans MT', 'Trebuchet MS', sans-serif;
